@@ -1,4 +1,4 @@
-#Spotify Popularity Prediction
+# Spotify Popularity Prediction
 
 My teammate and I trained a prediction model, which could take a song, and by its characteristics (like loudness, explicit/not, tempo, danceability, etc) could predict if the song would reach the top 50 charts in Spotify. We used Python as our language of choice, preprocessed and used various ML and ensemble algorithms to train our dataset.
 
